@@ -89,6 +89,7 @@ https://engineeringxpert.com/wp-content/uploads/2022/04/26.png
   
 
 ## STM 32 CUBE PROGRAM :
+```
 #include "main.h"
 #include "lcd.h"
 void SystemClock_Config(void);
@@ -172,7 +173,7 @@ void assert_failed(uint8_t *file, uint32_t line)
 #endif
 
 
-
+```
 
 ## Output screen shots of proteus  :
 ![WhatsApp Image 2025-10-16 at 20 30 56](https://github.com/user-attachments/assets/f6fe5dd6-8a8d-4aa8-974d-8ec14244d910)
