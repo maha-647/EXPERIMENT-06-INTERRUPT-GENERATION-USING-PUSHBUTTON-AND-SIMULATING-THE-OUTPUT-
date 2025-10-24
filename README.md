@@ -1,5 +1,8 @@
 # EXPERIMENT-06-INTERRUPT-GENERATION-USING-PUSHBUTTON-AND-SIMULATING-THE-OUTPUT
 
+### NAME: Mahalaksshmi Mridula
+### REG NO: 212224220056
+
 ### Aim:
 To Interface a push button and generate an interrupt , simulate it using an led and simuate it on  proteus 
 
